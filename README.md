@@ -1,9 +1,11 @@
 # 💫 About Me:
 <p align="left">
   <a href="https://dgofficial.dpdns.org" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-000000?style=for-the-badge">
+    <img 
+      src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+    >
   </a>
-</p><br>
+</p>
 🔭 Currently working on News Portal<br>🌱 learning Skills of Cyber Security<br>
 
 ## 🌐 Socials:
