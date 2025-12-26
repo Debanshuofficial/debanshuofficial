@@ -1,11 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on News Portal<br>🌱 I’m currently learning Skills of Cyber Security<br>
-
-<p align="center">
+<p align="left">
   <a href="https://dgofficial.dpdns.org" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-000000?style=for-the-badge">
   </a>
-</p>
+</p><br>
+🔭 Currently working on News Portal<br>🌱 learning Skills of Cyber Security<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarthik.ghosh.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/debanshu.official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debanshuofficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debanshug4@gmail.com) 
