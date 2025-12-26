@@ -2,7 +2,8 @@
 <p align="left">
   <a href="https://dgofficial.dpdns.org" target="_blank">
     <img 
-      src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+      src="https://img.shields.io/badge/🚀%20VISIT%20PORTFOLIO-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Visit Portfolio"
     >
   </a>
 </p>
