@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on News Portal<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Skills of Cyber Security<br>
+🔭 I’m currently working on News Portal<br>🌱 I’m currently learning Skills of Cyber Security<br>
 
 
 ## 🌐 Socials:
